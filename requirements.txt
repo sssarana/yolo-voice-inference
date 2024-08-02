@@ -1,0 +1,7 @@
+torch
+opencv-python
+gtts
+numpy
+pandas
+pydub
+pyaudio
